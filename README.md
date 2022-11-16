@@ -6,7 +6,7 @@
 
 *Obs: The business problem is fictitious, although both company and data are real.*
 
-*The in-depth Python code explanation is available in [this](https://github.com/igorvgp/rossman_stores/blob/main/m10_v01_store_sales_prediction.ipynb) Jupyter Notebook.*
+*The in-depth Python code explanation is available in [this](https://github.com/vitortbarboza/Rossman_Sales_Predicition/blob/main/Store_Sales_Prediction.ipynb) Jupyter Notebook.*
 
 # 1. **Abstract**
  This Data Science project was developed with Rossmann data available on [Kaggle](https://https://www.kaggle.com/) in order to predict sales of the next six weeks for each store and determine the best resource allocation for each store renovation.
@@ -192,5 +192,5 @@ In this project the main objective was accomplished:
 
  # Contact
 
-- igorviniciusgpereira@gmail.com
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorvgpereira/)
+- vitortbarboza@hotmail.com
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitortbarboza//)
