@@ -153,7 +153,7 @@ The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](ht
 <p align="justify"> A couple interesting metrics to evaluate the financial performance of this solution is the MAE and MAPE. Below there's a table with a few stores metrics: </p>
 <div align="center">
 
-| **Store** | **Predictions (€)** | **Worst Scenario (€)** | **Best Scenario (€)** | **MAE (€)** | **MAPE** |
+| **Store** | **Predictions ($)** | **Worst Scenario ($)** | **Best Scenario ($)** | **MAE ($)** | **MAPE** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1  |	164,545.94 |	150,086.63 |	179,005.24 |	14,459.31 |	0.09 |
 | 2  |	178,759.59 |	151,883.56 |	205,635.62 |	26,876.03 |	0.15 |
@@ -166,7 +166,7 @@ The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](ht
 
 <div align="center">
 
-| **Scenario (€)** | **Total Sales of the Next 6 Weeks (€)** |
+| **Scenario ($)** | **Total Sales of the Next 6 Weeks ($)** |
 |:---:|:---:|
 | Prediction  | $283,742,272.00 |
 | Worst Scenario | $244,033,471.48 |
